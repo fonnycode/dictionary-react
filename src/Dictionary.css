@@ -6,9 +6,8 @@ text-align: center;
 }
 
 .Dictionary form {
-  font-size: 20px;
 margin: 10px 80px;
-
+display: block;
 }
 
 .Dictionary .example{
@@ -21,14 +20,6 @@ margin: 10px 80px;
 }
 
 .Dictionary .input-word{
-display: block;
   height: 64px;
-  color: #666666;
-  font-size: 18px;
-  line-height: 21px;
-  padding: 22px;
-  border: 1px solid #dddddd;
-  border-radius: 6px;
-
-  width: 100%;
+  color: rgb(130, 133, 133);
 }
