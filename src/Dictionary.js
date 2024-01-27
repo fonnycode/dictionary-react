@@ -28,11 +28,13 @@ let apiKey = "9tce7490b0da29acf6b444190735fo2f";
     <div className="Dictionary">
       <form onSubmit={handleSubmit}>
         <input
+        className="form-control input-word"
           type="search"
           placeholder="Type any word"
           onChange={updateWords}
         />
       </form>
+      <div className="example">example: Book, Flower, Balloon </div>
       <Results results={results} />
     </div>
   );
