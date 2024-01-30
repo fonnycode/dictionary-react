@@ -1,4 +1,6 @@
 .Results{
     color: #595C5E;
-    margin: 20px 50px;
+    line-height: 2.5;
+    text-transform: capitalize;
 }
+

@@ -1,8 +1,7 @@
 .App {
   background-color: #F7F7F7;
   max-width: 550px;
-  padding: 50px 0 100px;
-  border-radius: 18px;
+  padding: 30px 9px 20px;
  margin: 50px auto;
  display: block;
 
@@ -15,3 +14,13 @@
 }
 
 
+footer {
+  text-align: center;
+  font-size: 12px;
+  color: rgb(95, 93, 93);
+  line-height: 2;
+}
+
+footer a {
+  text-decoration: none;
+}
