@@ -1,21 +1,22 @@
 .Dictionary {
   font-size: 15px;
   text-transform: capitalize;
-text-align: center;
+text-align: left;
+margin-left: 10px;
 
 }
 
 .Dictionary form {
-margin: 10px 80px;
+margin: 10px 40px;
 display: block;
 }
 
-.Dictionary .example{
+.Dictionary .hints{
   text-align: left;
-  margin-left: 80px;
+  margin-left: 50px;
   margin-bottom: 10px;
   font-style: italic;
-  font-size: 12px;
+  font-size: 10px;
   display: block;
 }
 

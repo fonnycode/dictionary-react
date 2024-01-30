@@ -34,7 +34,7 @@ let apiKey = "9tce7490b0da29acf6b444190735fo2f";
           onChange={updateWords}
         />
       </form>
-      <div className="example">example: Book, Flower, Balloon </div>
+      <div className="hints">example: Book, Flower, Balloon </div>
       <Results results={results} />
     </div>
   );

@@ -1,9 +1,9 @@
 .App {
   background-color: #F7F7F7;
-  max-width: 50%;
+  max-width: 550px;
   padding: 50px 0 100px;
   border-radius: 18px;
- margin: 0 auto;
+ margin: 50px auto;
  display: block;
 
 }
